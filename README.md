@@ -16,7 +16,7 @@ The code is in a Jupyter Notebook. You can install Jupyter Notebook by installin
 ## Installing
 Clone this repository
 
-`git clone https://github.com/raufmifteev/DLND_Dog_Classifier.git`
+`git clone https://github.com/rauf-mifteev/DLND_Dog_Classifier.git`
 
 ## Run the Code
 Navigate to the cloned directories location and start jupyter notebook with dlnd_tv_script_generation.ipynb
