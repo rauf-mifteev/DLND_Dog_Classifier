@@ -6,4 +6,4 @@ This is dog breed classifier project for Udacity's Deep Learning Nanodegree prog
 * If given an image of a dog, the model predicts the canine’s breed with at least 60% accuracy. Random chance is only 0.75% since there are 133 dog breeds (classes) in the dataset.
 * If given an image of a human, the model identifies the dog breeds the person most resembles.
 
-After exploring different CNN models, including **VGG**, **ResNet**, **InceptionV3**, and **Xception**, I chose Xception model because it showed the best test accuracy. Using learning transfer I added ans trained two final layers on top of pretrained CNN to do the final classification of dog breeds.
+After exploring different CNN models, including **VGG**, **ResNet**, **InceptionV3**, and **Xception**, I chose Xception model because it showed the best test accuracy. Using **learning transfer** I added and trained two final layers on top of pretrained CNN to do the final classification of dog breeds.
