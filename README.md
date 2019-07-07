@@ -11,14 +11,14 @@ After exploring different CNN models, including **VGG**, **ResNet**, **Inception
 ## Prerequisites
 The code is in a Jupyter Notebook. You can install Jupyter Notebook by installing [Anaconda](https://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda) or with pip
 
-pip3 install jupyter
+`pip3 install jupyter`
 
 ## Installing
 Clone this repository
 
-git clone https://github.com/raufmifteev/DLND_Dog_Classifier.git
+`git clone https://github.com/raufmifteev/DLND_Dog_Classifier.git`
 
 ## Run the Code
 Navigate to the cloned directories location and start jupyter notebook with dlnd_tv_script_generation.ipynb
 
-jupyter notebook dog_app.ipynb
+`jupyter notebook dog_app.ipynb`
