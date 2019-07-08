@@ -1,4 +1,4 @@
-# Udacity Deep Learning Nanodedree Dog Breed Clissifier
+# Dog Breed Clissifier Project for Udacity Deep Learning Nanodedree 
 
 This is dog breed classifier project for Udacity's Deep Learning Nanodegree program. In this project, I develop code for an image classifier in **Jupiter Notebook** using **Keras** over **Tensorflow**. This code must be able to:
 
