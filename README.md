@@ -27,6 +27,6 @@ Clone this repository
 `git clone https://github.com/rauf-mifteev/DLND_Dog_Classifier.git`
 
 ## Run the Code
-Navigate to the cloned directories location and start jupyter notebook with dlnd_dog_classifier.ipynb
+Navigate to the cloned directories location and start jupyter notebook with dog_app.ipynb
 
 `jupyter notebook dog_app.ipynb`
